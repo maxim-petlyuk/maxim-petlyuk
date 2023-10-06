@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **mpetlyuk@gmail.com**
 
+![maxim-petlyuk's github stats](https://github-readme-stats.vercel.app/api?username=maxim-petlyuk&show_icons=true)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
